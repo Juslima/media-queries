@@ -1,7 +1,7 @@
 # media-queries
 
 
-# HTML File Explanation and CSS Files README
+# HTML and CSS Files
 
 In this assignment, I will be creating an HTML5 web page and implementing three essential media queries. Media queries are a crucial component of modern web design, allowing web developers to make their websites responsive and adaptable to different screen sizes and printing requirements. 
 
