@@ -1,0 +1,8 @@
+/* Styles for screens between 400px and 600px */
+body {
+    font-size: 14px;
+}
+
+nav ul {
+    font-size: 1.0em;
+}

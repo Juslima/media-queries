@@ -1,0 +1,18 @@
+/* Styles for printing the web page */
+body {
+    background: none;
+}
+
+header,
+nav {
+    display: none;
+}
+
+main {
+    padding: 10px;
+    background: none;
+}
+
+footer {
+    text-align: center;
+}

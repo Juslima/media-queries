@@ -1,0 +1,8 @@
+/* Styles for screens with a width of 940px or more */
+main {
+    padding: 40px;
+}
+
+nav ul {
+    font-size: 1.2em;
+}
